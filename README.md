@@ -1,3 +1,3 @@
 # apache-webserver-terraform
-# Automated deployment of an Apache Web Server on EC2 in AWS Cloud using Terraform 
+# Automated deployment of an Apache Web Server on Amazon EC2 using Terraform 
 ## ......Readme to be completed soon...
